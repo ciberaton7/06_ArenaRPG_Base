@@ -6,11 +6,11 @@ namespace ArenaRPG
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("==========================================================");
-            Console.WriteLine("=== BIENVENIDOS A LA ARENA DE MITOS Y LEYENDAS (grupop06 ) ===");
+            Console.WriteLine("=================   =========================================");
+            Console.WriteLine("=== BIENVENIDOS A LA ARENA DE MITOS Y LEYENDAS (grupop06) ===");
             Console.WriteLine("==========================================================\n");
             
-            Console.WriteLine("Repositorio Original del Líder Técnico (Docente)");
+            Console.WriteLine("Repositorio Original del Líder Técnico (Docente  )");
             Console.WriteLine("Estado actual: Esperando la integración del equipo de desarrollo...\n");
 
             // ------------------------------------------------------------------------
@@ -41,7 +41,7 @@ namespace ArenaRPG
             sanador.CurarAliado(); // Proviene de ICurador (creada por el estudiante 4)
             */
 
-            Console.WriteLine("\nPresiona ENTER para salir...");
+            Console.WriteLine("\nPresiona ENTER para salir...    ");
             Console.ReadLine();
         }
     }

@@ -7,7 +7,7 @@ namespace ArenaRPG
         static void Main(string[] args)
         {
             Console.WriteLine("==========================================================");
-            Console.WriteLine("=== BIENVENIDOS A LA ARENA DE MITOS Y LEYENDAS (grupop06) ===");
+            Console.WriteLine("=== BIENVENIDOS A LA ARENA DE MITOS Y LEYENDAS (grupop06 ) ===");
             Console.WriteLine("==========================================================\n");
             
             Console.WriteLine("Repositorio Original del Líder Técnico (Docente)");
